@@ -12,3 +12,25 @@
   background-color: lightblue;
   height: 700px;
 }
+
+.landingPageHeader {
+  text-align: center;
+}
+
+.landingPageParagraph {
+  width: 400px;
+}
+
+.landingPageImage {
+  border: solid;
+  border-color: black;
+  background-color: white;
+  width: 400px;
+  height: 400px;
+}
+
+.landingPageSection {
+  display: flex;
+  margin: 50px;
+  justify-content: space-around;
+}
